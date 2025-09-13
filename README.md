@@ -30,7 +30,7 @@ ds_PavanKumar/
 - Lagged sentiment (yesterday’s mood) can help forecast profitability.
 
 ## Usage
-1. Open `notebook_1.ipynb` in Google Colab.
+1. Open `notebook1/Notebook1.ipynb` in Google Colab.
 2. Upload raw data CSVs when prompted.
 
 # Dataset Links
